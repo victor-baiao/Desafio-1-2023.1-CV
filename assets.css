@@ -1,0 +1,28 @@
+ .tudo{
+    display: flex;
+    align-items: right;
+  
+  }
+
+  .imagem{
+    height: 270px;
+    width: 270px;
+
+  }
+
+  img{
+    height: 250px;
+    width: 250px;
+
+  }
+
+  h1{
+    font-family:Arial, Helvetica, sans-serif;
+
+  }
+
+  .dados{
+    font-family:sans-serif;
+
+  }
+
